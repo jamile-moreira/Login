@@ -20,7 +20,7 @@ function Main() {
   return (
     <div className="container-main">
       <form onSubmit={handleSubmit}>
-        <h1>Login</h1>
+        <h1>Login Fintech</h1>
         <div>
           <input
             type="text"
